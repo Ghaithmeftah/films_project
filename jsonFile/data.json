@@ -18,7 +18,7 @@
             "release_date": "2022-04-06",
             "title": "Fantastic Beasts: The Secrets of Dumbledore",
             "video": false,
-           
+            "favorite":false,
             "vote_count": 1777
         },
         {
@@ -38,7 +38,8 @@
             "release_date": "2022-03-30",
             "title": "Morbius",
             "video": false,
-           
+            "favorite":false,
+
             "vote_count": 1651
         },
         {
@@ -58,7 +59,7 @@
             "release_date": "2022-03-24",
             "title": "The Lost City",
             "video": false,
-            
+            "favorite":false,
             "vote_count": 1167
         },
         {
@@ -79,7 +80,7 @@
             "release_date": "2022-03-30",
             "title": "Sonic the Hedgehog 2",
             "video": false,
-            
+            "favorite":false,
             "vote_count": 2045
         },
         {
@@ -99,7 +100,7 @@
             "release_date": "2022-04-07",
             "title": "The Northman",
             "video": false,
-            
+            "favorite":false,
             "vote_count": 1500
         },
         {
@@ -119,7 +120,7 @@
             "release_date": "2022-04-28",
             "title": "Memory",
             "video": false,
-            
+            "favorite":false,
             "vote_count": 289
         },
         {
@@ -139,7 +140,7 @@
             "release_date": "2022-06-01",
             "title": "Jurassic World Dominion",
             "video": false,
-            
+            "favorite":false,
             "vote_count": 526
         },
         {
@@ -159,7 +160,7 @@
             "release_date": "2022-05-04",
             "title": "Doctor Strange in the Multiverse of Madness",
             "video": false,
-            
+            "favorite":false,
             "vote_count": 2272
         },
         {
@@ -179,7 +180,7 @@
             "release_date": "2021-12-15",
             "title": "Spider-Man: No Way Home",
             "video": false,
-            
+            "favorite":false,
             "vote_count": 13514
         },
         {
@@ -199,7 +200,7 @@
             "release_date": "2022-05-26",
             "title": "Interceptor",
             "video": false,
-            
+            "favorite":false,
             "vote_count": 243
         },
         {
@@ -218,7 +219,7 @@
             "release_date": "2022-02-10",
             "title": "Uncharted",
             "video": false,
-            
+            "favorite":false,
             "vote_count": 2415
         },
         {
@@ -238,7 +239,7 @@
             "release_date": "2022-06-11",
             "title": "Dragon Ball Super: Super Hero",
             "video": false,
-            
+            "favorite":false,
             "vote_count": 13
         },
         {
@@ -258,7 +259,7 @@
             "release_date": "2022-03-01",
             "title": "The Batman",
             "video": false,
-            
+            "favorite":false,
             "vote_count": 5156
         },
         {
@@ -278,7 +279,7 @@
             "release_date": "2022-01-28",
             "title": "Clean",
             "video": false,
-            
+            "favorite":false,
             "vote_count": 125
         },
         {
@@ -299,7 +300,7 @@
             "release_date": "2022-03-10",
             "title": "Turning Red",
             "video": false,
-            
+            "favorite":false,
             "vote_count": 2455
         },
         {
@@ -319,7 +320,7 @@
             "release_date": "2022-03-04",
             "title": "A Day to Die",
             "video": false,
-            
+            "favorite":false,
             "vote_count": 61
         },
         {
@@ -338,7 +339,7 @@
             "release_date": "2022-03-10",
             "title": "The Contractor",
             "video": false,
-            
+            "favorite":false,
             "vote_count": 321
         },
         {
@@ -356,7 +357,7 @@
             "release_date": "2022-02-10",
             "title": "The Exorcism of God",
             "video": false,
-            
+            "favorite":false,
             "vote_count": 232
         },
         {
@@ -378,6 +379,7 @@
             "title": "The Bad Guys",
             "video": false,
             "vote_average": 7.8,
+            "favorite":false,
             "vote_count": 643
         },
         {
@@ -397,7 +399,7 @@
             "release_date": "2022-04-20",
             "title": "The Unbearable Weight of Massive Talent",
             "video": false,
-            
+            "favorite":false,
             "vote_count": 257
         }
     ],
