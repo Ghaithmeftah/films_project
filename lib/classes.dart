@@ -43,6 +43,7 @@ class Results {
   String? releaseDate;
   String? title;
   bool? video;
+  bool? favorite;
   int? voteCount;
 
   Results(
@@ -58,6 +59,7 @@ class Results {
       this.releaseDate,
       this.title,
       this.video,
+      this.favorite,
       this.voteCount});
 
   Results.fromJson(Map<String, dynamic> json) {
@@ -73,6 +75,7 @@ class Results {
     releaseDate = json['release_date'];
     title = json['title'];
     video = json['video'];
+    favorite = json['favorite'];
     voteCount = json['vote_count'];
   }
 
@@ -90,6 +93,7 @@ class Results {
     data['release_date'] = releaseDate;
     data['title'] = title;
     data['video'] = video;
+    data['favorite'] = favorite;
     data['vote_count'] = voteCount;
     return data;
   }

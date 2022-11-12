@@ -35,6 +35,10 @@ dependencies:
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.2
   http: ^0.13.4
+  google_fonts: ^3.0.1
+  firebase_core: ^1.18.0
+  firebase_auth: ^3.3.20
+  cloud_firestore: ^3.1.18
 
 dev_dependencies:
   flutter_test:
@@ -64,7 +68,12 @@ flutter:
     - images/The-Avengers-650ff76d.webp
     - images/The-Flash-Cropped.webp
     - images/The-pianist.webp
+    - images/movie-night.png
+    - images/maxresdefault.png
+    - images/swim.png
     - jsonFile/
+    - assetsFonts/
+    - images/consulting.png
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware
 
