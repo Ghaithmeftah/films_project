@@ -390,14 +390,16 @@ class _BannerWidgetAreaState extends State<BannerWidgetArea> {
                           // bannersfavorites.add(widget.listofresults[i]);
 
                           AddFavoriteMovieToFirebase(widget.listofresults[i]);
-                          // BuildListOfFavorites();
+                          //BuildListOfFavorites();
+                          _BuildListOfFavoritesState();
                         } else {
                           // bannersfavorites.removeWhere((element) =>
                           // element.title == widget.listofresults[i].title);
 
                           removeFavoriteMovieFromFirebase(
                               widget.listofresults[i].title!);
-                          // BuildListOfFavorites();
+                          //BuildListOfFavorites();
+                          _BuildListOfFavoritesState();
                         }
                       });
                     }),
